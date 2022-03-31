@@ -1,0 +1,3 @@
+# Translations of Red Star OS
+"레드 스타 OS" = "Red Star OS"
+"그린 스타 OS" = "Green Star OS"
