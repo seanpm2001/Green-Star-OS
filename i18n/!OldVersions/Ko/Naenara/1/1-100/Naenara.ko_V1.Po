@@ -1,0 +1,4 @@
+# Naenara Korean translations (the same in both North and South Korean)
+"우리 나라" = "My country"
+"우리 나라" = "Our country"
+
