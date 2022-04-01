@@ -1,0 +1,23 @@
+# Start of script
+# Naenara Korean translations (the same in both North and South Korean)
+# "우리 나라" = "My country"
+# "우리 나라" = "Our country"
+# C1, C3: South Korean
+# C2, C4: North Korean
+#: src/name.c:1
+msgid "My country %s.\n"
+msgstr "우리 나라 %s.\n"
+#: src/name.c:2
+msgid "Our country %s.\n"
+msgstr "우리 나라 %s.\n"
+#: src/name.c:3
+msgid "My country %s.\n"
+msgstr "우리 나라 %s.\n"
+#: src/name.c:4
+msgid "Our country %s.\n"
+msgstr "우리 나라 %s.\n"
+# File info
+# File type: GetText Catalog file (*.Po)
+# File version: 3 (2022, Thursday, March 31st at 5:24 pm)
+# Line count (including blank lines and compiler line): 24
+# End of script
