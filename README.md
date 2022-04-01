@@ -118,7 +118,7 @@ The name `Green Star` is in reference to `Red Star` it indicates that this proje
 
 #### Red Star OS
 
-![/Graphics/Red_Star_OS/Logo/2020/SVG/Red_Star_OS_Logo_2020.svg)
+![/Graphics/Red_Star_OS/Logo/2020/SVG/Red_Star_OS_Logo_2020.svg](/Graphics/Red_Star_OS/Logo/2020/SVG/Red_Star_OS_Logo_2020.svg)
 
 **⚠️ WARNING:** Be extremely careful with these and NEVER install them on your main computer (virtual machine only) the third listed link is reported to be able to escape virtual machines, so it should only be installed on an extra computer that you are willing to wipe and reinstall. This is a North Korean operating system. The default language is Korean, but English modifications exist online. DO NOT INSTALL THIS ON YOUR MAIN COMPUTER! Also, please make sure none of your devices are connected to the Internet before installing.
 
@@ -363,9 +363,9 @@ Contributing is allowed for this project, as long as you follow the rules of the
 
 **File type:** `Markdown Document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `1 (2022, Thursday, March 31st at 10:37 pm)`
+**File version:** `2 (2022, Thursday, March 31st at 10:42 pm)`
 
-**Line count (including blank lines and compiler line):** `0.501`
+**Line count (including blank lines and compiler line):** `0.521`
 
 ***
 
@@ -481,13 +481,33 @@ Version 1 (2022, Thursday, March 31st at 10:37 pm)
 
 > * No other changes in version 1
 
-Version 2 (Coming soon)
+Version 2 (2022, Thursday, March 31st at 10:42 pm)
+
+> Changes:
+
+> * Fixed a broken image link
+
+> * Updated the file info section
+
+> * Updated the file history section
+
+> * No other changes in version 2
+
+Version 3 (Coming soon)
 
 > Changes:
 
 > * Coming soon
 
-> * No other changes in version 2
+> * No other changes in version 3
+
+> Version 4 (Coming soon)
+
+> Changes:
+
+> * Coming soon
+
+> * No other changes in version 4
 
 ***
 
