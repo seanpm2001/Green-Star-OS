@@ -2,13 +2,17 @@
 # Translations of Red Star OS
 # "레드 스타 OS" = "Red Star OS"
 # "그린 스타 OS" = "Green Star OS"
-# Start of script
 # Red Star OS translations (Not the same in North and South Korean)
+# C1 = South Korean
+# C2 = North Korean
 #: src/name.c:1
+msgid "Red Star OS %s.\n"
+msgstr "레드 스타 OS %s.\n"
+#: src/name.c:2
 msgid "Red Star OS %s.\n"
 msgstr "레드 스타 OS %s.\n"
 # File info
 # File type: GetText Catalog file (*.Po)
-# File version: 2 (2022, Thursday, March 31st at 5:08 pm)
-# Line count (including blank lines and compiler line): 16
+# File version: 3 (2022, Thursday, March 31st at 5:14 pm)
+# Line count (including blank lines and compiler line): 17
 # End of script
