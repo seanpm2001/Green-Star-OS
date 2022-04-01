@@ -1,0 +1,17 @@
+# Start of script
+# Translations of Green Star OS
+# "그린 스타 OS" = "Green Star OS"
+# Green Star OS translations (Not the same in North and South Korean)
+# C1 = South Korean
+# C2 = North Korean
+#: src/name.c:1
+msgid "Green Star OS %s.\n"
+msgstr "그린 스타 OS %s.\n"
+#: src/name.c:2
+msgid "Green Star OS %s.\n"
+msgstr "그린 스타 OS %s.\n"
+# File info
+# File type: GetText Catalog file (*.Po)
+# File version: 2 (2022, Thursday, March 31st at 5:21 pm)
+# Line count (including blank lines and compiler line): 18
+# End of script
