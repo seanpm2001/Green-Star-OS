@@ -1,0 +1,97 @@
+﻿<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1"
+ width="485" height="280" viewBox="-100 -50 970 560">
+<title>Flag of North Korea (Construction sheet)</title>
+<defs>
+	<g style="overflow:visible">
+		<marker id="ts" refX="9.5" orient="auto" markerUnits="userSpaceOnUse">
+			<path id="tf" d="M	19	-5	L	0	0	19	5" />
+		</marker>
+		<marker id="te" refX="-9.5" orient="auto" markerUnits="userSpaceOnUse">
+			<use xlink:href="#tf" transform="scale(-1,1)" />
+		</marker>
+	</g>
+</defs>
+<rect fill="#FFF" x="-100" y="-50" width="100%" height="100%" stroke="#000" />
+<g stroke="#000" stroke-width="1" fill="none">
+	<!-- 外形 -->
+	<g stroke-width="2">
+		<rect x="0" y="0" width="720" height="360" fill="#AAA" />
+		<rect x="0" y="60" width="720" height="240" fill="#FFF" />
+		<rect x="0" y="70" width="720" height="220" fill="#CCC" />
+		<circle cx="240" cy="180" r="80" fill="#FFF" />
+		<path fill="#CCC" stroke-linejoin="round" d="M
+		240	102.5
+		257.3998341	156.0511829
+		313.70688	156.0511829
+		268.153523	189.1476341
+		285.5533571	242.6988171
+		240	209.6023659
+		194.4466429	242.6988171
+		211.846477	189.1476341
+		166.29312	156.0511829
+		222.6001659	156.0511829
+		Z
+		" />
+	</g>
+	<!-- 破線 -->
+	<path stroke-dasharray="100,3,3,3" d="
+	M	240	-10	V	420
+	M	-60	180	H	330
+	M	430	180	H	730
+	" />
+	<circle stroke-dasharray="100,3,3,3,3,3" cx="240" cy="180" r="77.5" />
+	<!-- 寸法補助線 -->
+	<path d="
+	M	0	360	V	470
+	M	720	360	V	470
+	
+	M	720	0	H	830
+	M	720	60	H	780
+	M	720	70	H	780
+	M	720	290	H	780
+	M	720	300	H	780
+	M	-60	360	H	830
+	
+	M	240	100	H	430
+	M	240	102.5	H	380
+	M	240	257.5	H	380
+	M	240	260	H	430
+	
+	M	770	60	V	70
+	M	770	290	V	300
+	" />
+	<g marker-end="url(#te)">
+		<g marker-start="url(#ts)">
+			<!-- 寸法線 直 両-->
+			<path d="M	10	460	H	710" />
+			<path d="M	10	410	H	230" />
+			<path d="M	820	10	V	350" />
+			<path d="M	770	10	V	50" />
+			<path d="M	770	80	V	280" />
+			<path d="M	770	310	V	350" />
+			<path d="M	-50	190	V	350" />
+			
+			<path d="M	420	110	V	250" />
+			<path d="M	370	112.5	V	247.5" />
+		</g>
+	</g>
+</g>
+<g font-size="24" text-anchor="middle" font-family="Bitstream Vera Sans, sans-serif">
+	<!-- 寸法数値 -->
+	<text x="360" y="454">144</text>
+	<text x="120" y="404">48</text>
+	<g transform="rotate(-90)">
+		<text x="-180" y="814">72</text>
+		<text x="-30" y="764">12</text>
+		<text x="-65" y="798">2</text>
+		<text x="-180" y="764">44</text>
+		<text x="-295" y="798">2</text>
+		<text x="-330" y="764">12</text>
+		<text x="-180" y="364">31</text>
+		<text x="-180" y="414">32</text>
+		<text x="-270" y="-56">36</text>
+	</g>
+</g>
+</svg>
