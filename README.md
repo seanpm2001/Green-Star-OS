@@ -47,6 +47,108 @@ Translations are currently done with Bing translate and DeepL. Support for Googl
 
 [02.0 - About](#About)
 
+[03.0 - Downloads](#Downloads)
+
+> [03.1 - Archive.org downloads](#Archiveorg-downloads)
+
+> > [03.1.1 - Red Star OS 1 Downloads](#Red-Star-OS-1-Downloads)
+
+> > [03.1.2 - Red Star OS 2 Downloads](#Red-Star-OS-2-Downloads)
+
+> > [03.1.3 - Red Star OS 3 Downloads](#Red-Star-OS-3-Downloads)
+
+> > [03.1.4 - Red Star OS 4 Downloads](#Red-Star-OS-4-Downloads)
+
+[04.0 - Research](#Research)
+
+> [04.1 - North Korea](#North-Korea)
+
+> > [04.1.1 - Technology](#Technology)
+
+> > > [04.1.1.1 - Operating Systems](#Operating-Systems)
+
+> > > > [04.1.1.1.1 - Red Star OS](#Red-Star-OS)
+
+> > > > > [04.1.1.1.1.1 - Red Star OS 1](#Red-Star-OS-1)
+
+> > > > > [04.1.1.1.1.2 - Red Star OS 2](#Red-Star-OS-2)
+
+> > > > > [04.1.1.1.1.3 - Red Star OS 3](#Red-Star-OS-3)
+
+> > > > > [04.1.1.1.1.4 - Red Star OS 4](#Red-Star-OS-4)
+
+> > > [04.1.1.2 - Web browsers](#Web-browsers)
+
+> > > > [04.1.1.2.1 - Naenara](#Naenara)
+
+> > > [04.1.1.3 - Office software](#Office-software)
+
+> > > > [04.1.1.3.1 - Sogwang Office](#Sogwang-Office)
+
+> > > [04.1.2.1 - Nuclear technology](#Nuclear-technology)
+
+> > > > [04.1.2.1.1 - Nuclear activity before 2005](#Nuclear-activity-before-2005)
+
+> > > > [04.1.2.1.2 - 2006 Nuclear activity](#2006-Nuclear-activity)
+
+> > > > [04.1.2.1.3 - 2007 Nuclear activity](#2007-Nuclear-activity)
+
+> > > > [04.1.2.1.4 - 2008 Nuclear activity](#2008-Nuclear-activity)
+
+> > > > [04.1.2.1.5 - 2009 Nuclear activity](#2009-Nuclear-activity)
+
+> > > > [04.1.2.1.6 - 2010 Nuclear activity](#2010-Nuclear-activity)
+
+> > > > [04.1.2.1.7 - 2011 Nuclear activity](#2011-Nuclear-activity)
+
+> > > > [04.1.2.1.8 - 2012 Nuclear activity](#2012-Nuclear-activity)
+
+> > > > [04.1.2.1.9 - 2013 Nuclear activity](#2013-Nuclear-activity)
+
+> > > > [04.1.2.1.10 - 2014 Nuclear activity](#2014-Nuclear-activity)
+
+> > > > [04.1.2.1.11 - 2015 Nuclear activity](#2015-Nuclear-activity)
+
+> > > > [04.1.2.1.12 - 2016 Nuclear activity](#2016-Nuclear-activity)
+
+> > > > [04.1.2.1.13 - 2017 Nuclear activity](#2017-Nuclear-activity)
+
+> > > > [04.1.2.1.14 - 2018 Nuclear activity](#2018-Nuclear-activity)
+
+> > > > [04.1.2.1.15 - 2019 Nuclear activity](#2019-Nuclear-activity)
+
+> > > > [04.1.2.1.16 - 2020 Nuclear activity](#2020-Nuclear-activity)
+
+> > > > [04.1.2.1.17 - 2021 Nuclear activity](#2021-Nuclear-activity)
+
+> > > > [04.1.2.1.18 - 2022 Nuclear activity](#2022-Nuclear-activity)
+
+> > [04.2.1 - Kangwon Province](#Kangwon-Province)
+
+> > > [04.2.1.1 - Kosan Country](#Kosan-Country)
+
+> > > > [04.2.1.1.1 - Sogwansa Buddhist Temple](#Sogwansa-Buddhist-Temple)
+
+> > [04.3.1 - Vexillology]
+
+> > > [04.3.1.1 - Flag of North Korea](#Flag-of-North-Korea)
+
+> > [04.4.1 - Heraldry](#Heraldry)
+
+> > > [04.4.1.1 - Emblem of North Korea](#Emblem-of-North-Korea)
+
+> > [04.5.1 - Currency](#Currency)
+
+> > > [04.5.1.1 - Korean Won](#Korean-Won)
+
+> > [04.6.1 - Human rights](#Human-rights)
+
+> > [04.7.1 - Language](#Language)
+
+[05.0 - Graphics](#Graphics)
+
+[06.0 - Translation notes](#Translation-notes)
+
 [03.0 - Wiki](#Wiki)
 
 [04.0 - History](#History)
@@ -63,39 +165,53 @@ Translations are currently done with Bing translate and DeepL. Support for Googl
 
 [06.0 - Credits](#Credits)
 
-[07.0 - Installation](#Installation)
+[07.0 - Theme and subsystem](#Theme-and-subsystem)
 
-[08.0 - Version history](#Version-history)
+> [07.1 - Interface](#Interface)
 
-[09.0 - Version history](#Version-history)
+> [07.2 - Terminal](#Terminal)
 
-[10.0 - Software status](#Software-status)
+> [07.3 - Dependencies](#Dependencies)
 
-[11.0 - Sponsor info](#Sponsor-info)
+[08.0 - Components](#Components)
 
-[12.0 - Contributers](#Contributers)
+[09.0 - Templates](#Templates)
 
-[13.0 - Issues](#Issues)
+[10.0 - Workflows](#Workflows)
 
-> [13.1 - Current issues](#Current-issues)
+[11.0 - Installation](#Installation)
 
-> [13.2 - Past issues](#Past-issues)
+[12.0 - Version history](#Version-history)
 
-> [13.3 - Past pull requests](#Past-pull-requests)
+[13.0 - Version history](#Version-history)
 
-> [13.4 - Active pull requests](#Active-pull-requests)
+[14.0 - Software status](#Software-status)
 
-[14.0 - Resources](#Resources)
+[15.0 - Sponsor info](#Sponsor-info)
 
-[15.0 - Contributing](#Contributing)
+[16.0 - Contributers](#Contributers)
 
-[16.0 - About README](#About-README)
+[17.0 - Issues](#Issues)
 
-[17.0 - README Version history](#README-version-history)
+> [17.1 - Current issues](#Current-issues)
 
-[18.0 - Footer](#You-have-reached-the-end-of-the-README-file)
+> [17.2 - Past issues](#Past-issues)
 
-> [18.9 - End of file](#EOF)
+> [17.3 - Past pull requests](#Past-pull-requests)
+
+> [17.4 - Active pull requests](#Active-pull-requests)
+
+[18.0 - Resources](#Resources)
+
+[19.0 - Contributing](#Contributing)
+
+[20.0 - About README](#About-README)
+
+[21.0 - README Version history](#README-version-history)
+
+[22.0 - Footer](#You-have-reached-the-end-of-the-README-file)
+
+> [22.9 - End of file](#EOF)
 
 ***
 
@@ -108,48 +224,363 @@ A research project into North Koreas Red Star OS, and a set of themes for making
 
 ![/Graphics/Flag/SVG/Flag_of_North_Korea.svg](/Graphics/Flag/SVG/Flag_of_North_Korea.svg)
 
+**Note:** Green Star OS is **NOT** an Operating System
+
 See above. This project is a research project into North Korean technology, especially Red Star OS, along with themes and scripts designed to ease the creation of a Red Star OS desktop without having to use the actual operating system or its malware.
 
 This project is written in Lua and MoonScript. It is highly incomplete, and very early in development.
 
 The name `Green Star` is in reference to `Red Star` it indicates that this project is not a Communist project, but a more liberal/Socialist one. The reason MoonScript is used is because I also wanted to make this the moon that covers the evil Red Star, and because Lua was a good language for programming this project in.
 
+***
+
+## Downloads
+
 ### Archive.org downloads
 
 #### Red Star OS
 
+<details open><summary><p lang="en">Click/tap here to expand/collapse this preview picture</p></summary>
+
 ![/Graphics/Red_Star_OS/Logo/2020/SVG/Red_Star_OS_Logo_2020.svg](/Graphics/Red_Star_OS/Logo/2020/SVG/Red_Star_OS_Logo_2020.svg)
+
+</details>
 
 **⚠️ WARNING:** Be extremely careful with these and NEVER install them on your main computer (virtual machine only) the third listed link is reported to be able to escape virtual machines, so it should only be installed on an extra computer that you are willing to wipe and reinstall. This is a North Korean operating system. The default language is Korean, but English modifications exist online. DO NOT INSTALL THIS ON YOUR MAIN COMPUTER! Also, please make sure none of your devices are connected to the Internet before installing.
 
 ##### Red Star OS 1
 
+<details open><summary><p lang="en">Click/tap here to expand/collapse this preview picture</p></summary>
+
 ![/Graphics/Red_Star_OS/1.0/Desktop/PNG/Red_Star_1.0_Desktop_-_File_Manager.png](/Graphics/Red_Star_OS/1.0/Desktop/PNG/Red_Star_1.0_Desktop_-_File_Manager.png)
+
+</details>
 
 No download links for Red Star OS 1 are currently available
 
 ##### Red Star OS 2
 
+<details open><summary><p lang="en">Click/tap here to expand/collapse this preview picture</p></summary>
+
 ![/Graphics/Red_Star_OS/2.0/PNG/Windowing_in_Red_Star_Linux.png](/Graphics/Red_Star_OS/2.0/PNG/Windowing_in_Red_Star_Linux.png)
+
+</details>
+
 [Red Star OS 2 (ISO)](https://archive.org/details/RedStarOS2/)
 
 ##### Red Star OS 3
 
+<details open><summary><p lang="en">Click/tap here to expand/collapse this preview picture</p></summary>
+
 ![/Graphics/Red_Star_OS/3.0/Desktop/PNG/Windowing_in_Red_Star_Linux.png](/Graphics/Red_Star_OS/3.0/Desktop/PNG/RedStarOS-2021-04-03-16-50-57.png)
+
+</details>
 
 [Red Star OS 3 (ISO)](https://archive.org/details/redstar_desktop3.0_sign_202112)
 
+<details open><summary><p lang="en">Click/tap here to expand/collapse this preview picture</p></summary>
+
 ![/Graphics/Red_Star_OS/3.0/RootSetting/JPG/Rootsetting_in_Red_Star_OS_3_(Linux_from_DPRK).jpg](/Graphics/Red_Star_OS/3.0/RootSetting/JPG/Rootsetting_in_Red_Star_OS_3_(Linux_from_DPRK).jpg)
+
+</details>
 
 [Red Star OS 3 Server (ISO)](https://archive.org/details/RedStarOS/) [⛔️ Security check failed, this one may contain anti-VM source code]
 
-##### Red Star OS 4
+##### Red Star OS 4 Downloads
 
 No download links for Red Star OS 4 are currently available.
 
-### Research
+## Research
 
 [View the research reference for this project by clicking/tapping here](/Research/)
+
+### North Korea
+
+#### Technology
+
+##### Operating Systems
+
+###### Red Star OS
+
+###### Red Star OS 1
+
+<details open><summary><p lang="en">Click/tap here to expand/collapse this preview picture</p></summary>
+
+![/Graphics/Red_Star_OS/Logo/2020/SVG/Red_Star_OS_Logo_2020.svg](/Graphics/Red_Star_OS/Logo/2020/SVG/Red_Star_OS_Logo_2020.svg)
+
+</details>
+
+Red Star OS 1 is North Koreas first custom operating system. Before this, North Korea used Windows XP and other Windows operating systems. They made a Linux distribution called Red Star OS to fit their needs, as they couldn't retain the rights to Windows and noted it to be insecure and dangerous (they are right on this, but the operating system they made is even more dangerous) Red Star OS 1 is based on Fedora Linux 11. It has a Windows XP-like interface.
+
+No further information is currently known.
+
+###### Red Star OS 2
+
+<details open><summary><p lang="en">Click/tap here to expand/collapse this preview picture</p></summary>
+
+![/Graphics/Red_Star_OS/2.0/PNG/Windowing_in_Red_Star_Linux.png](/Graphics/Red_Star_OS/2.0/PNG/Windowing_in_Red_Star_Linux.png)
+
+</details>
+
+Red Star OS 2 is the second version of North Koreas Red Star OS operating system. It has a similar look to GNOME 1.0, but as like Red Star OS 1, most of the GNU/Linux symbols are replaced with North Korean Communist ones (most notably the Red Star)
+
+No further information is currently known.
+
+###### Red Star OS 3
+
+<details open><summary><p lang="en">Click/tap here to expand/collapse this preview picture</p></summary>
+
+![/Graphics/Red_Star_OS/3.0/Desktop/PNG/RedStarOS-2021-04-03-16-50-57.png](/Graphics/Red_Star_OS/3.0/Desktop/PNG/RedStarOS-2021-04-03-16-50-57.png)
+
+</details>
+
+Red Star OS 3 is the third installment to North Koreas Red Star OS Linux distribution. It has a similar look to early Mac OS X (Pre-OS-X) this design was probably inspired by an iMac that Kim Jong Un was seen with in 2013. Although the system heavily resembles MacOS, it is to be noted that it is not based on MacOS, although some of the methods Apple used are in use (not just graphics) the operating system has heavy hardware checking (just like MacOS) and unfortunately may have some anti-virtual machine source code.
+
+Some changes in the interface are noted, such as the Apple logo being replaced with the Red Star, along with other Communist tweaks that are common for the Red Star OS operating system.
+
+The system is again in Korean, but modifications exist to change the language to Korean.
+
+<details open><summary><p lang="en">Click/tap here to expand/collapse this preview picture</p></summary>
+
+![/Graphics/Red_Star_OS/3.0/RootSetting/JPG/Rootsetting_in_Red_Star_OS_3_(Linux_from_DPRK).jpg](/Graphics/Red_Star_OS/3.0/RootSetting/JPG/Rootsetting_in_Red_Star_OS_3_(Linux_from_DPRK).jpg)
+
+</details>
+
+By default, the user does not have root or sudo privileges, but they can be gained through a program known as `RootSetting` although even with Root privileges, some settings and files cannot be modified.
+
+The system intensively checks to make sure certain files are not modified, and it checks files that go into it.
+
+No further information is currently known.
+
+###### Red Star OS 4
+
+Very little is currently known about Red Star OS 4.
+
+No further information is currently available.
+
+##### Web browsers
+
+###### Naenara
+
+<details open><summary><p lang="en">Click/tap here to expand/collapse this preview picture</p></summary>
+
+![/Graphics/Browser/Logo/SVG/Naenaranewlogo.svg](/Graphics/Browser/Logo/SVG/Naenaranewlogo.svg)
+
+</details>
+
+The logo for the Naenara web browser.
+
+<details open><summary><p lang="en">Click/tap here to expand/collapse this preview picture</p></summary>
+
+![/Graphics/Browser/About/JPG/Red_Star_OS_2.jpg](/Graphics/Browser/About/JPG/Red_Star_OS_2.jpg)
+
+</details>
+
+Nanenara (Korean: 우리 나라 Lit: My country) is the default web browser in Red Star OS. It is based off an early version of Firefox, and is restricted to the North Korean Intranet of only ~5,500 websites. High ranking officials in the country are able to access the global Internet.
+
+No further information is currently available.
+
+##### Office software
+
+###### Sogwang Office
+
+<details open><summary><p lang="en">Click/tap here to expand/collapse this preview picture</p></summary>
+
+![/Graphics/Sogwang_Office/JPG/Sogwang_Office_in_Red_Star_OS_3.jpg](/Graphics/Sogwang_Office/JPG/Sogwang_Office_in_Red_Star_OS_3.jpg)
+
+</details>
+
+Sogwang Office is the default Office Software in Red Star OS. It appeared in Red Star OS 3, but may have been there in older versions. Sogwang office is a heavily modified version of OpenOffice, and is named after the Sogwansa Buddhist Temple in Kosan Country, Kangwon Province, in North Korea. This temple was destroyed by United States bombing during the Korean War in 1951, and is a prominent site to North Korea, which intends to rebuild it, but doesn't appear to have made any progress in the past 71 years.
+
+No further information is currently available. 
+
+##### Nuclear technology
+
+North Korea has possessed nuclear weapons since 2006.
+
+###### Nuclear activity before 2005
+
+North Korea was not a nuclear state before 2006.
+
+###### 2006 Nuclear activity
+
+On 2006, October 9th, North Korea performed its first successful nuclear bomb test, which had a yield of 0.2 to 1 kilotons. They disabled their nuclear reactor in 2007 due to immense international pressure, but this was short lived.
+
+###### 2007 Nuclear activity
+
+No nuclear activity for North Korea was reported in 2007.
+
+###### 2008 Nuclear activity
+
+No nuclear activity for North Korea was reported in 2008.
+
+###### 2009 Nuclear activity
+
+On 2009, April 25th, North Korea publicly announced that it had re-activated its nuclear facilities, and exactly 1 month later, North Korea detonated their second nuclear bomb, underground. It had a yield of 2 to 7 kilotons.
+
+###### 2010 Nuclear activity
+
+In May of 2010, North Korea claimed it had successfully performed nuclear fusion.
+
+###### 2011 Nuclear activity
+
+No nuclear activity for North Korea was reported in 2011.
+
+###### 2012 Nuclear activity
+
+No nuclear activity for North Korea was reported in 2012.
+
+###### 2013 Nuclear activity
+
+On 2013, February 12th, at 2:57 GMT, monitors in Asia picked up unusual seismic activity from North Korea, and the country later reported that they had detonated another nuclear bomb. Reports of the yield are mixed, South Korea says the yield was 7.7 to 7.8 kilotons, while other researchers claim the yield was 12.2 ± 3.8 kilotons.
+
+###### 2014 Nuclear activity
+
+No nuclear activity for North Korea was reported in 2014.
+
+###### 2015 Nuclear activity
+
+In 2015, December, Kim Jong Un claimed that the country was capable of launching a hydrogen bomb.
+
+###### 2016 Nuclear activity
+
+On 2016, January 6th, after reported earthquakes in Asia, North Korea claimed it had detonated its first hydrogen bomb successfully, although whether the bomb was a hydrogen bomb is disputed.
+
+###### 2017 Nuclear activity
+
+On 2017, February 18th, China suspended coal imports to North Korea.
+
+On 2017, March 6th, North Korea launched a nuclear missile into the sea of Japan.
+
+On 2017, April 16, hours after the military parade in Pyongyang, North Korea attempted to launch a ballistic missile from a site near the port of Sinpo, on the country's east coast. The missile exploded seconds after launch. 
+
+On 2017, April 28, North Korea launched an unidentified ballistic missile over Pukchang airfield, in North Korean territory. It blew up shortly after take-off at an altitude of approximately 70 km (44 mi).
+
+On 2017, July 4, North Korea launched Hwasong-14 from Banghyon airfield, near Kusong, in a lofted trajectory it claims lasted 39 minutes for 930 km (578 mi), landing in the waters of the Japanese exclusive economic zone. US Pacific Command said the missile was aloft for 37 minutes, meaning that in a standard trajectory it could have reached all of Alaska, a distance of 6,690 km (4,160 mi). By targeting the deep waters in the Sea of Japan, North Korea was ensuring that American or Japanese divers would encounter difficulties when attempting to recover Hwasong-14's engine. Equally, North Korea was not attempting to recover any re-entry debris either, which South Korea pointed out is an indication that this first launch was of an ICBM which was far from ready for combat. As of July 2017, the U.S. estimated that North Korea would have a reliable nuclear-capable intercontinental ballistic missile (ICBM) by early 2018. On July 28, North Korea launched a second, apparently more advanced, ICBM, with altitude around 3,700 km (2,300 mi), that traveled 1,000 km (620 mi) down range; analysts estimated that it was capable of reaching the continental United States.
+
+On 2017, September 3, North Korea claimed to have successfully tested a thermonuclear bomb, also known as a hydrogen bomb. Corresponding seismic activity similar to an earthquake of magnitude 6.3 was reported by the USGS, making the blast around 10 times more powerful than previous detonations by the country. Later the bomb yield was estimated to be 250 kilotons, based on further study of the seismic data. The test was reported to be "a perfect success" by North Korean authorities.
+
+On 2017, November 28, North Korea fired an intercontinental ballistic missile in the first such launch from the country in more than two months. The missile, believed by the U.S. Military to be an ICBM, was launched from Sain Ni and flew roughly 1,000 km (620 mi) before landing in the Sea of Japan.
+
+After North Korea claimed that the missile was capable of "carrying [a] super-heavy [nuclear] warhead and hitting the whole mainland of the U.S.", Kim-Jong-Un announced that they had "finally realized the great historic cause of completing the state nuclear force", putting them in a position of strength to push the United States into talks.
+
+###### 2018 Nuclear activity
+
+No nuclear activity for North Korea was reported in 2018.
+
+###### 2019 Nuclear activity
+
+In August 2019 Japan has upgraded its estimate of North Korea's nuclear weapons capability in an upcoming annual Defence White Paper, saying it seems Pyongyang has achieved the miniaturization of warheads. The defence report will maintain Japan's contention that North Korea's nuclear and ballistic missile programs pose a "serious and imminent threat" to its security after recent meetings between Donald Trump and the North's leader, Kim Jong-un, failed to make progress on denuclearisation
+
+###### 2020 Nuclear activity
+
+Bruce Klingner of the American Heritage Foundation estimated, in June 2020, that North Korea has likely built "eight or more additional nuclear weapons" since the 2018 summit.
+
+On October 10, 2020, North Korea unveiled a massive ICBM during a military parade for the 75th anniversary of the Workers' Party of Korea, with CNN reporting that military analysts believe it is one of the world's largest road-mobile ballistic missiles.
+
+###### 2021 Nuclear activity
+
+No nuclear activity for North Korea was reported in 2021.
+
+###### 2022 Nuclear missile tests
+
+As of 2022 April 2nd, North Korea has launched 7 nuclear weapons so far this year.
+
+#### Kangwon Province
+
+##### Kosan Country
+
+###### Sogwansa Buddhist Temple
+
+<details open><summary><p lang="en">Click/tap here to expand/collapse this preview picture</p></summary>
+
+![/Graphics/Sogwang_Temple_1930/PNG/Shakuoji.png](/Graphics/Sogwang_Temple_1930/PNG/Shakuoji.png)
+
+</details>
+
+The Sogwansa Buddhist Temple is located in Kosan Country, Kangwon Province, in North Korea. This temple was destroyed by United States bombing during the Korean War in 1951, and is a prominent site to North Korea, which intends to rebuild it, but doesn't appear to have made any progress in the past 71 years.
+
+#### Vexillology
+
+##### Flag of North Korea
+
+<details open><summary><p lang="en">Click/tap here to expand/collapse this preview picture</p></summary>
+
+![/Graphics/Flag/SVG/Flag_of_North_Korea.svg](/Graphics/Flag/SVG/Flag_of_North_Korea.svg)
+
+</details>
+
+[From Wikipedia: Flag of North Korea oldid=1080399013](https://en.wikipedia.org/w/index.php?title=Flag_of_North_Korea&oldid=1080399013)
+
+The flag of North Korea, also known as the Ramhongsaek Konghwagukgi (Korean: 람홍색공화국기; literally "blue and red-coloured flag of the republic"), sometimes known as the flag of Korea, consists of a central red panel, bordered both above and below by a narrow white stripe and a broad blue stripe. The central red panel bears a five-pointed red star within a white circle near the hoist. The flag is banned from public use in South Korea under the National Security Act due to its association with the ruling North Korean regime, although some exceptions for the usage of the flag exist.
+
+The North Korean national flag is officially defined in article 170 of Chapter VII of the North Korean constitution. According to it:
+
+"The national flag of the Democratic People's Republic of Korea consists of a central red panel, bordered both above and below by a narrow white stripe and a broad blue stripe. The central red panel bears a five-pointed red star within a white circle near the hoist. The ratio of the width to the length is 1:2."
+
+Color scheme
+
+The video colors approximation is listed below:
+
+| Color | Blue | Red | White |
+| ------- | ------- | ------- | ------- |
+| RGB | 2/79/162 | 237/28/39 | 255/255/255 |
+| Hexadecimal | #024fa2 | #ed1c27 | #ffffff |
+| CMYK | 99/51/0/36 | 0/88/84/7 | 0/0/0/0 |
+
+**Symbolism**
+
+<details open><summary><p lang="en">Click/tap here to expand/collapse this preview picture</p></summary>
+
+![/Graphics/Flag/SVG/Vertical_Flag_of_North_Korea.svg](/Graphics/Flag/SVG/Vertical_Flag_of_North_Korea.svg)
+
+</details>
+
+**The vertical display.**
+
+The North Korean flag's prominent motif is a red star, which is a universal symbol of communism and socialism, although since the flag's adoption the application of the Marxist-Leninist-natured philosophy of Juche has replaced communist authority as the state's guiding ideology, and references to communism have been systematically removed from the country's constitution and legal documents. However, the constitution is still stated to be socialist in nature. Despite the many changes to the constitution, the description of the flag has always remained the same.
+
+The website of the Korean Friendship Association indicates that, on the contrary, the red star represents revolutionary traditions and the red panel is indicative of the patriotism and determination of the Korean people. The white stripes symbolize the unity of the Korean nation and its culture. The blue stripes represent the desire to fight for independence, peace, friendship, and international unity.
+
+According to a typical North Korean official text published in Rodong Sinmun, Kim Il-sung gave the following significance to the flag's elements:
+
+The red of the flag symbolises anti-Japanese sentiment, and is the colour of blood shed by the Korean patriots and the invincible might of our people firmly united to support the Republic. The white symbolizes one bloodline, one land, one language, one culture of our monoethnic country, which lived in purity. And blue stands for the gallant visage of our people and symbolises the spirit of the Korean people fighting for world peace and progress.
+
+The colours of the North Korean flag – red, white, and blue – are considered national colours and symbolise respectively: revolutionary traditions; purity, strength, and dignity; and sovereignty, peace, and friendship.
+
+[Read the rest on Wikipedia](https://en.wikipedia.org/w/index.php?title=Flag_of_North_Korea&oldid=1080399013)
+
+#### Heraldry
+
+##### Emblem of North Korea
+
+<details open><summary><p lang="en">Click/tap here to expand/collapse this preview picture</p></summary>
+
+[Graphics/Emblem/SVG/Emblem_of_North_Korea.svg](/Graphics/Emblem/SVG/Emblem_of_North_Korea.svg)
+
+</details>
+
+[From Wikipedia: Emblem of North Korea oldid=1065706419](https://en.wikipedia.org/w/index.php?title=Emblem_of_North_Korea&oldid=1065706419)
+
+The National Emblem of the Democratic People's Republic of Korea is the coat of arms of North Korea, officially known as the Democratic People's Republic of Korea. The current version adopted in 1993 is based on a design that was used since the foundation of the republic in 1948. Two previous versions were briefly in use in the late 1940s. Prominent features on the emblem are a red star, a hydroelectric plant (the Sup'ung dam) and Mount Paektu. The design bears similarities to the emblem of the Soviet Union and other emblems of the socialist heraldic style.
+
+[Read the rest on Wikipedia](https://en.wikipedia.org/w/index.php?title=Emblem_of_North_Korea&oldid=1065706419)
+
+#### Currency
+
+##### Korean Won
+
+The currency of North Korea is the North Korean Won `₩` with the code `KPW`
+
+#### Human rights
+
+North Korea lacks human rights, and is the worst country in the world. The people of North Korea have no rights, other than to worship the Kim dynasty. Malnutrition is a major issue, while Kim just gets fatter and the population gets skinnier.
+
+#### Language
+
+The North Korean language is a modified version of the Korean language, and is extremely similar to South Korean. Due to the two sides hating each other, the North Korean language has many differences from the South Korean variant, made out of spite.
+
+***
 
 ### Graphics
 
@@ -163,11 +594,43 @@ No download links for Red Star OS 4 are currently available.
 
 #### Interface
 
-[📂️ The Green Star OS interface](/Interface)
+[📂️ The Green Star OS interface](/Interface/)
 
 > [📜️ MAIN.lua - The main Lua script for the Green Star OS interface](/Interface/MAIN.lua)
 
 > [📜️ MAIN.moon - The main MoonScript script for the Green Star OS interface](/Interface/MAIN.moon)
+
+#### Terminal
+
+A set of terminal scripts to imitate Red Star OS.
+
+[📂️ Terminal](/Terminal/)
+
+> [📂️ ScreenFetch](/Terminal/ScreenFetch/) - For Screen fetching programs (such as Neofetch, OneFetch, etc.)
+
+> > [📂️ neofetch](/Terminal/ScreenFetch/neofetch/) - For Neofetch extensions
+
+> > > [📂️ red star](/Terminal/ScreenFetch/neofetch/redstar/) - For Red Star OS Neofetch extensions
+
+> > > > [📂️ Compiled](/Terminal/ScreenFetch/neofetch/redstar/Compiled/) - For compiled (executed for you) versions of the Red Star OS Neofetch extensions
+
+> > > > > [📂️ Unscrubbed](/Terminal/ScreenFetch/neofetch/redstar/Compiled/Unscrubbed/) - For compiled and unscrubbed (unnecessary and unrelated data is visible) versions of the Red Star OS neofetch extensions
+
+> > > > > > [📜️ RedStar_onNeofetch.htm](/Terminal/ScreenFetch/neofetch/redstar/Compiled/Unscrubbed/RedStar_onNeofetch.htm) - An example of Neofetch displaying the Red Star OS logo on Ubuntu 20.04 on a Dell XPS 13.
+
+> > > [📂️ !OldVersions](/Terminal/ScreenFetch/neofetch/redstar/!OldVersions/) - For old versions of the scripts in the `/Terminal/ScreenFetch/neofetch/redstar/` inode directory
+
+> > > [📜️ NeoFetch_RedStar.sh](/Terminal/ScreenFetch/neofetch/redstar/NeoFetch_RedStar.sh) - A simple script for running the Red Star OS logo through Neofetch
+
+#### Dependencies
+
+This project has 2 major dependencies:
+
+* MoonScript 0.5.0
+
+* Lua 5.4 or later
+
+The dependencies can be viewed in detail [here (📜️ .deps.lua)](/.deps.lua)
 
 #### Components
 
@@ -176,6 +639,14 @@ No download links for Red Star OS 4 are currently available.
 #### Templates
 
 [Not very useful, but here you go: [click/tap here to view this projects templates]](/Templates/)
+
+***
+
+## Workflows
+
+[![MoonScript (Lua Rocks)](https://github.com/seanpm2001/Green-Star-OS/actions/workflows/MoonScript_LuaRocks.yml/badge.svg)](https://github.com/seanpm2001/Green-Star-OS/actions/workflows/MoonScript_LuaRocks.yml)
+
+_No other workflows at the moment._
 
 ***
 
@@ -271,7 +742,7 @@ Image credit: [defectivebydesign.org/drm-free/...](https://www.defectivebydesign
 
 Currently, I am the only contributer. Contributing is allowed, as long as you follow the rules of the [CONTRIBUTING.md](/CONTRIBUTING.md) file.
 
-> * 1. [seanpm2001](https://github.com/seanpm2001/) -58 commits (As of 2022, Thursday, March 31st at 10:37 pm PST)
+> * 1. [seanpm2001](https://github.com/seanpm2001/) - 75 commits (As of 2022, Saturday, April 2nd at 7:!6 pm PST)
 
 > * 2. No other contributers.
 
@@ -345,6 +816,8 @@ Here are some other resources for this project:
 
 [Project language file B (Lua)](PROJECT_LANG_2.lua)
 
+[Project language file C (Shell)](PROJECT_LANG_3.sh)
+
 [Join the discussion on GitHub](https://github.com/Green-Star-OS-dev/Green-Star-OS/discussions)
 
 No other resources at the moment.
@@ -363,9 +836,15 @@ Contributing is allowed for this project, as long as you follow the rules of the
 
 **File type:** `Markdown Document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `2 (2022, Thursday, March 31st at 10:42 pm)`
+**File version:** `3 (2022, Saturday, April 2nd at 7:16 pm)`
 
-**Line count (including blank lines and compiler line):** `0.521`
+**Line count (including blank lines and compiler line):** `1,078`
+
+**All times are UTC-7 (PDT/Pacific Time)** `(Please also account for DST (Daylight Savings Time) until it is abolished/no longer followed)`
+
+_Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 hour to 3:00 am._
+
+**You may need special rendering support for the `<details>` HTML tag being used in this document**
 
 ***
 
@@ -449,7 +928,9 @@ Version 0.1 (Sunday, March 21st 2021 at 7:50 pm)
 
 > * No other changes in version 0.1
 
-Version 1 (2022, Thursday, March 31st at 10:37 pm)
+**Version 1 (2022, Thursday, March 31st at 10:37 pm)**
+
+**This release was made by: [@seanpm2001](https://github.com/seanpm2001/)**
 
 > Changes:
 
@@ -481,7 +962,9 @@ Version 1 (2022, Thursday, March 31st at 10:37 pm)
 
 > * No other changes in version 1
 
-Version 2 (2022, Thursday, March 31st at 10:42 pm)
+**Version 2 (2022, Thursday, March 31st at 10:42 pm)**
+
+**This release was made by: [@seanpm2001](https://github.com/seanpm2001/)**
 
 > Changes:
 
@@ -493,15 +976,73 @@ Version 2 (2022, Thursday, March 31st at 10:42 pm)
 
 > * No other changes in version 2
 
-Version 3 (Coming soon)
+**Version 3 (2022, Saturday, April 2nd at 7:16 pm)**
+
+**This release was made by: [@seanpm2001](https://github.com/seanpm2001/)**
+
+_This is a massive update. It took nearly 3 hours on and off to write._
 
 > Changes:
 
-> * Coming soon
+> * Fixed formatting on 1 link (added a line break)
+
+> * Updated the file info section
+
+> * Updated the file history section
+
+> * Updated the index
+
+> * Updated the resources section
+
+> * Updated the contributors section
+
+> * Updated and reformatted the download link section
+
+> * Updated and reformatted the research section
+
+> > * Added the operating systems and Red Star OS sections
+
+> > > * Added the Red Star OS 1 subsection
+
+> > > * Added the Red Star OS 2 subsection
+
+> > > * Added the Red Star OS 3 subsection
+
+> > > * Added the Red Star OS 4 subsection
+
+> > * Added the web browsers and Naenara sections
+
+> > * Added the office software and sogwang office sections
+
+> > * Added the nuclear technology section
+
+> > > * Added subsections for Nuclear activity from 2005/2006 to 2022
+
+> > * Added the Kangwon Province, and Kosan country sections
+
+> > > * Added the sogwansa Buddhist temple section
+
+> > * Added the vexillology section
+
+> > * Added the heraldry section
+
+> > * Added the currency section
+
+> > * Added the human rights section
+
+> > * Added the language section
+
+> * Added the terminal section
+
+> * Added the dependencies section
+
+> * Added the workflows section
+
+> * Updated the footer
 
 > * No other changes in version 3
 
-> Version 4 (Coming soon)
+**Version 4 (Coming soon)**
 
 > Changes:
 
@@ -509,11 +1050,27 @@ Version 3 (Coming soon)
 
 > * No other changes in version 4
 
+**Version 5 (Coming soon)**
+
+> Changes:
+
+> * Coming soon
+
+> * No other changes in version 5
+
+**Version 6 (Coming soon)**
+
+> Changes:
+
+> * Coming soon
+
+> * No other changes in version 6
+
 ***
 
 ### You have reached the end of the README file
 
-( [Back to top](#Top) | [Exit to GitHub](https://github.com) | [Exit to Bing](https://www.bing.com/) | [Exit to DuckDuckGo](https://duckduckgo.com/) | [Exit to Ecosia](https://www.ecosia.org) )
+( [Back to top](#Top) | [Exit to GitHub](https://github.com) | [Exit to Bing](https://www.bing.com/) | [Exit to DuckDuckGo](https://duckduckgo.com/) | [Exit to Ecosia](https://www.ecosia.org) | [Exit to Swisscows](https://www.swisscows.com/) )
 
 ### EOF
 
