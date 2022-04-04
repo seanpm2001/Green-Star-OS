@@ -85,43 +85,57 @@ Translations are currently done with Bing translate and DeepL. Support for Googl
 
 > > > > [04.1.1.3.1 - Sogwang Office](#Sogwang-Office)
 
-> > > [04.1.2.1 - Nuclear technology](#Nuclear-technology)
+> > > [04.1.1.4 - Emojis](#Emojis)
 
-> > > > [04.1.2.1.1 - Nuclear activity before 2005](#Nuclear-activity-before-2005)
+> > > > [04.1.1.4.1 - North Korean Flag Emoji](#North-Korean-Flag-Emoji)
 
-> > > > [04.1.2.1.2 - 2006 Nuclear activity](#2006-Nuclear-activity)
+> > > [04.1.1.5 - Internet in North Korea](#Internet-in-North-Korea)
 
-> > > > [04.1.2.1.3 - 2007 Nuclear activity](#2007-Nuclear-activity)
+> > > > [04.1.1.5.1 - .kp Top Level Domain](#KP-Top-Level-Domain)
 
-> > > > [04.1.2.1.4 - 2008 Nuclear activity](#2008-Nuclear-activity)
+> > > [04.1.2.1 - Hardware](#Hardware)
 
-> > > > [04.1.2.1.5 - 2009 Nuclear activity](#2009-Nuclear-activity)
+> > > > [04.1.2.1. - Samjiyon tablet computer](#Samjiyon-tablet-computer)
 
-> > > > [04.1.2.1.6 - 2010 Nuclear activity](#2010-Nuclear-activity)
+> > > > > [04.1.2.1.1.1 - Samjiyon tablet specifications](#Samjiyon-tablet-specifications)
 
-> > > > [04.1.2.1.7 - 2011 Nuclear activity](#2011-Nuclear-activity)
+> > > [04.1.3.1 - Nuclear technology](#Nuclear-technology)
 
-> > > > [04.1.2.1.8 - 2012 Nuclear activity](#2012-Nuclear-activity)
+> > > > [04.1.3.1.1 - Nuclear activity before 2005](#Nuclear-activity-before-2005)
 
-> > > > [04.1.2.1.9 - 2013 Nuclear activity](#2013-Nuclear-activity)
+> > > > [04.1.3.1.2 - 2006 Nuclear activity](#2006-Nuclear-activity)
 
-> > > > [04.1.2.1.10 - 2014 Nuclear activity](#2014-Nuclear-activity)
+> > > > [04.1.3.1.3 - 2007 Nuclear activity](#2007-Nuclear-activity)
 
-> > > > [04.1.2.1.11 - 2015 Nuclear activity](#2015-Nuclear-activity)
+> > > > [04.1.3.1.4 - 2008 Nuclear activity](#2008-Nuclear-activity)
 
-> > > > [04.1.2.1.12 - 2016 Nuclear activity](#2016-Nuclear-activity)
+> > > > [04.1.3.1.5 - 2009 Nuclear activity](#2009-Nuclear-activity)
 
-> > > > [04.1.2.1.13 - 2017 Nuclear activity](#2017-Nuclear-activity)
+> > > > [04.1.3.1.6 - 2010 Nuclear activity](#2010-Nuclear-activity)
 
-> > > > [04.1.2.1.14 - 2018 Nuclear activity](#2018-Nuclear-activity)
+> > > > [04.1.3.1.7 - 2011 Nuclear activity](#2011-Nuclear-activity)
 
-> > > > [04.1.2.1.15 - 2019 Nuclear activity](#2019-Nuclear-activity)
+> > > > [04.1.3.1.8 - 2012 Nuclear activity](#2012-Nuclear-activity)
 
-> > > > [04.1.2.1.16 - 2020 Nuclear activity](#2020-Nuclear-activity)
+> > > > [04.1.3.1.9 - 2013 Nuclear activity](#2013-Nuclear-activity)
 
-> > > > [04.1.2.1.17 - 2021 Nuclear activity](#2021-Nuclear-activity)
+> > > > [04.1.3.1.10 - 2014 Nuclear activity](#2014-Nuclear-activity)
 
-> > > > [04.1.2.1.18 - 2022 Nuclear activity](#2022-Nuclear-activity)
+> > > > [04.1.3.1.11 - 2015 Nuclear activity](#2015-Nuclear-activity)
+
+> > > > [04.1.3.1.12 - 2016 Nuclear activity](#2016-Nuclear-activity)
+
+> > > > [04.1.3.1.13 - 2017 Nuclear activity](#2017-Nuclear-activity)
+
+> > > > [04.1.3.1.14 - 2018 Nuclear activity](#2018-Nuclear-activity)
+
+> > > > [04.1.3.1.15 - 2019 Nuclear activity](#2019-Nuclear-activity)
+
+> > > > [04.1.3.1.16 - 2020 Nuclear activity](#2020-Nuclear-activity)
+
+> > > > [04.1.3.1.17 - 2021 Nuclear activity](#2021-Nuclear-activity)
+
+> > > > [04.1.3.1.18 - 2022 Nuclear activity](#2022-Nuclear-activity)
 
 > > [04.2.1 - Kangwon Province](#Kangwon-Province)
 
@@ -129,7 +143,19 @@ Translations are currently done with Bing translate and DeepL. Support for Googl
 
 > > > > [04.2.1.1.1 - Sogwansa Buddhist Temple](#Sogwansa-Buddhist-Temple)
 
-> > [04.3.1 - Vexillology]
+> > [04.2.2 - Pyongyang](#Pyongyang)
+
+> > [04.2.2.1 - Pyongyang capital city](#Pyongyang-capital-city)
+
+> > > [04.2.2.1.1 - Pyongyang metro](#Pyongyang-metro)
+
+> > [04.2.3 - Chongjin](#Chongjin)
+
+> > [04.2.4 - Hamhung](#Hamhung)
+
+> > [04.2.5 - Nampocity](#Nampocity)
+
+> > [04.3.1 - Vexillology](#Vexillology)
 
 > > > [04.3.1.1 - Flag of North Korea](#Flag-of-North-Korea)
 
@@ -144,6 +170,62 @@ Translations are currently done with Bing translate and DeepL. Support for Googl
 > > [04.6.1 - Human rights](#Human-rights)
 
 > > [04.7.1 - Language](#Language)
+
+> > [04.8.1 - Politics of North Korea](#Politics-of-North-Korea)
+
+> > > [04.8.1.1 - Supreme leaders](#Supreme-leaders)
+
+> > > > [04.8.1.1.1 - Mount Paektu bloodline](#Mount-Paektu-bloodline)
+
+> > > > [04.8.1.1.2 - Juche ideology](#Juche-ideology)
+
+> > > > [04.8.1.1.3 - Kim Il-Sung](#Kim-Il-Sung)
+
+> > > > [04.8.1.1.4 - Kim Jong-Il](#Kim-Jong-Il)
+
+> > > > [04.8.1.1.5 - Kim Jong Un](#Kim-Jong-Un)
+
+> > > > [04.8.1.1.6 - Future leaders](#Future-leaders)
+
+> > > [04.8.1.2 - Political parties of North Korea](#Political-parties-of-North-Korea)
+
+> > > > [04.8.1.2.1 -  Workers Party of Korea (WPK)](#Workers-Party-of-Korea-WPK-)
+
+> > > [04.8.1.3 - Constitution of North Korea](#Constitution-of-North-Korea)
+
+> > > [04.8.1.4 - Relations with South Korea](#Relations-with-South-Korea)
+
+> > > [04.8.1.5 - Sham elections](#Sham-elections)
+
+> > > [04.8.1.6 - Foreign relations](#Foreign-relations)
+
+> > [04.9.1 - Isolation](#Isolation)
+
+> > [04.10.1 - Military](#Military)
+
+> > > [04.10.1.1 - Korean Peoples Army](#Korean-Peoples-Army)
+
+> > > [04.10.1.2 - North Korea nuclear weapons supply](#North-Korea-nuclear-weapons-supply)
+
+> > [04.11.1 - Music of North Korea](#Music-of-North-Korea)
+
+> > > [04.11.1.1 - No Motherland without you](#No-Motherland-without-you)
+
+> > > > [04.11.1.1.1 - No Motherland without you (lyrics)](#No-Motherland-without-you--Lyrics-)
+
+> > > [04.11.1.2 - Korea does what it is determined to do](#Korea-does-what-it-is-determined-to-do)
+
+> > > [04.11.1.3 - The Patriotic song](#The-Patriotic-song)
+
+> > [04.12.1 - Religion in North Korea](#Religion-in-North-Korea)
+
+> > [04.13.1 - Geography of North Korea](#Geography-of-NOrth-Korea) 
+
+> > [04.14.1 - Climate of North Korea](#Climate-of-North-Korea)
+
+> > [04.15.1 - Companies of North Korea](#Companies-of-North-Korea)
+
+> > > [04.15.1.1 - Korea Computer Center](#Korea-Computer-Center)
 
 [05.0 - Graphics](#Graphics)
 
@@ -338,7 +420,13 @@ Red Star OS 3 is the third installment to North Koreas Red Star OS Linux distrib
 
 Some changes in the interface are noted, such as the Apple logo being replaced with the Red Star, along with other Communist tweaks that are common for the Red Star OS operating system.
 
+<!-- Best typo ever (in my career so far)
+
 The system is again in Korean, but modifications exist to change the language to Korean.
+
+Normally, the typo makes me regret, but this one was funny !-->
+
+The system is again in Korean, but modifications exist to change the language to English and other languages.
 
 <details open><summary><p lang="en">Click/tap here to expand/collapse this preview picture</p></summary>
 
@@ -360,7 +448,7 @@ No further information is currently available.
 
 ##### Web browsers
 
-###### Naenara
+7###### Naenara
 
 <details open><summary><p lang="en">Click/tap here to expand/collapse this preview picture</p></summary>
 
@@ -393,6 +481,48 @@ No further information is currently available.
 Sogwang Office is the default Office Software in Red Star OS. It appeared in Red Star OS 3, but may have been there in older versions. Sogwang office is a heavily modified version of OpenOffice, and is named after the Sogwansa Buddhist Temple in Kosan Country, Kangwon Province, in North Korea. This temple was destroyed by United States bombing during the Korean War in 1951, and is a prominent site to North Korea, which intends to rebuild it, but doesn't appear to have made any progress in the past 71 years.
 
 No further information is currently available. 
+
+##### Emojis
+
+###### North Korean Flag Emoji
+
+The North Korean flag emoji was added with Emoji 1.0 in 2015. It has the flag code of `KP` and renders as `🇰🇵`
+
+##### Internet
+
+Internet is highly restricted to the population of North Korea.
+
+###### KP Top Level Domain
+
+`.kp` is the Internet country code top-level domain (ccTLD) for North Korea; it was created on 24 September 2007.
+
+North Korea applied for the .kp Internet country code top-level domain (ccTLD) in 2004. ICANN, however, refused because North Korea did not meet some of the requirements. Another attempt was made via Korea Computer Center (KCC) Europe in 2006. Later, the main body of KCC and the North Korean Ambassador to the United Nations petitioned ICANN again. They were refused again for providing insufficient information. A new application was sent in January 2007 and an ICANN delegation visited the country in May. This time ICANN agreed to assign .kp to North Korea.
+
+One of the first organizations to adopt a .kp domain was the Korean Central News Agency in 2009. Previously, the .kp domain was managed by Korea Computer Center (KCC) Europe. A large number of .kp websites were also hosted by KCC Europe in Germany. However, in 2011, management was transferred to the Pyongyang-based Star Joint Venture.
+
+##### Hardware
+
+###### Samjiyon tablet computer
+
+The Samjiyon tablet computer (North Korean: 판형 콤퓨터 삼지연) is a tablet computer that runs Android, made in North Korea by the North Korean Computer Center.
+
+###### Samjiyon tablet specifications
+
+**Introductory price:** `200 USD (Unknown in North Korean Won)`
+
+**Released in:** `2012`
+
+**Operating System:** `Android 4.0.4 (Ice Cream Sandwich)`
+
+**CPU:** `1.2 Gigahertz`
+
+**RAM**: `1.0 Gigabytes`
+
+**Storage:** `8 gigabytes` or `16 gigabytes`
+
+**Display resolution:** `1024x768` `(720p)`
+
+**Weight:** `250 grams (0.25 kilograms)`
 
 ##### Nuclear technology
 
@@ -500,6 +630,70 @@ As of 2022 April 2nd, North Korea has launched 7 nuclear weapons so far this yea
 
 The Sogwansa Buddhist Temple is located in Kosan Country, Kangwon Province, in North Korea. This temple was destroyed by United States bombing during the Korean War in 1951, and is a prominent site to North Korea, which intends to rebuild it, but doesn't appear to have made any progress in the past 71 years.
 
+#### Pyongyang
+
+<details open><summary><p lang="en">Click/tap here to expand/collapse this preview picture</p></summary>
+
+![/Graphics/Pyongyang/Apartments/JPG/Mirae_Scientists_Street_-_Nordkorea_2015_-_Pjöngjang_(22971791331).jpg](/Graphics/Pyongyang/Apartments/JPG/Mirae_Scientists_Street_-_Nordkorea_2015_-_Pjöngjang_(22971791331).jpg)
+
+</details>
+
+##### Pyongyang capital city
+
+<details open><summary><p lang="en">Click/tap here to expand/collapse this preview picture</p></summary>
+
+![/Graphics/Pyongyang/JPG/Pyongyang_western_view_April_2010.jpg](/Graphics/Pyongyang/JPG/Pyongyang_western_view_April_2010.jpg)
+
+</details>
+
+Pyongyang is the capital of North Korea.
+
+###### Pyongyang metro
+
+<details open><summary><p lang="en">Click/tap here to expand/collapse this preview picture</p></summary>
+
+![/Graphics/Pyongyang/Metro/JPG/Pyongyang_metro_station_2.jpg](/Graphics/Pyongyang/Metro/JPG/Pyongyang_metro_station_2.jpg)
+
+</details>
+
+The Pyongyang metro is the main train station of North Korea.
+
+##### Chongjin
+
+<details open><summary><p lang="en">Click/tap here to expand/collapse this preview picture</p></summary>
+
+![/Graphics/Chongjin/JPG/Chongjin.jpg](/Graphics/Chongjin/JPG/Chongjin.jpg)
+
+</details>
+
+Chongjin is a city in North Korea. No further information is currently available.
+
+##### Hamhung
+
+<details open><summary><p lang="en">Click/tap here to expand/collapse this preview picture</p></summary>
+
+![/Graphics/Hamhung/JPG/CHamhung_North_Korea.jpg](/Graphics/Hamhung/JPG/Hamhung_North_Korea.jpg)
+
+</details>
+
+Hamhung is a city in North Korea. No further information is currently available.
+
+<details open><summary><p lang="en">Click/tap here to expand/collapse this preview picture</p></summary>
+
+![/Graphics/Hamhung/Industry/JPG/Industry_Hamhung,_North_Korea.jpg](/Graphics/Hamhung/Industry/JPG/Industry_Hamhung,_North_Korea.jpg)
+
+</details>
+
+##### Nampocity
+
+<details open><summary><p lang="en">Click/tap here to expand/collapse this preview picture</p></summary>
+
+![/Graphics/Nampocity/JPG/Nampocity.jpg](/Graphics/Nampocity/JPG/Nampocity.jpg)
+
+</details>
+
+Nampocity is a city in North Korea. No further information is currently available.
+
 #### Vexillology
 
 ##### Flag of North Korea
@@ -558,6 +752,8 @@ The colours of the North Korean flag – red, white, and blue – are considered
 
 [Graphics/Emblem/SVG/Emblem_of_North_Korea.svg](/Graphics/Emblem/SVG/Emblem_of_North_Korea.svg)
 
+_This image currently fails to load on a READMR preview, but the file location is correct, and the file is not corrupt. It can still be viewed through GitHub, just click the link._
+
 </details>
 
 [From Wikipedia: Emblem of North Korea oldid=1065706419](https://en.wikipedia.org/w/index.php?title=Emblem_of_North_Korea&oldid=1065706419)
@@ -570,7 +766,7 @@ The National Emblem of the Democratic People's Republic of Korea is the coat of 
 
 ##### Korean Won
 
-The currency of North Korea is the North Korean Won `₩` with the code `KPW`
+The currency of North Korea is the North Korean Won `₩` with the code `KPW` it is not to be confused with the South Korean Won.
 
 #### Human rights
 
@@ -579,6 +775,191 @@ North Korea lacks human rights, and is the worst country in the world. The peopl
 #### Language
 
 The North Korean language is a modified version of the Korean language, and is extremely similar to South Korean. Due to the two sides hating each other, the North Korean language has many differences from the South Korean variant, made out of spite.
+
+#### Politics of North Korea
+
+This chapter goes over the politics of North Korea.
+
+##### Supreme leaders
+
+North Korea is a totalitarian dictatorship ruled by the Kim Dynasty.
+
+###### Mount Paektu bloodline
+
+By law (as of 2013) the Supreme leader of North Korea must be in the `Mount Paektu` bloodline, according to clause 2, article 10 of the Ten Fundamental Principles of the Korean Workers' Party.
+
+###### Juche ideology
+
+The Juche ideology is the belief that "man is the master of his destiny" and that "the masses are to act like the "masters of the revolution and construction" and that by becoming self-reliant and strong, a nation can achieve true Socialism"
+
+It is viewed by the official North Korean line as an embodiment of Kim Il-sung's wisdom, an expression of his leadership, and an idea which provides "a complete answer to any question that arises in the struggle for national liberation".
+
+Juche was pronounced in December 1955 in a speech called On Eliminating Dogmatism and Formalism and Establishing Juche in Ideological Work in order to emphasize a Korea-centered revolution. Its core tenets are economic self-sufficiency, military self-reliance and an independent foreign policy.
+
+###### Kim Il-Sung
+
+<details open><summary><p lang="en">Click/tap here to expand/collapse this preview picture</p></summary>
+
+![/Graphics/People/Politics/Supreme/Kim/Kim_Il-Sung/JPG/Kim_Il-sung_in_1950.jpg](/Graphics/People/Politics/Supreme/Kim/Kim_Il-Sung/JPG/Kim_Il-sung_in_1950.jpg)
+
+</details>
+
+Kim Il-Sung developed and ruled North Korea from the end of the Korean war to his death in 1994. He developed North Korea under the Juche policy, and developed a cult of personality. His titles include `Eternal leader` and `Grand Marshal` he was succeeded by Kim Jong-Il.
+
+###### Kim Jong-Il
+
+<details open><summary><p lang="en">Click/tap here to expand/collapse this preview picture</p></summary>
+
+![/Graphics/People/Politics/Supreme/Kim/Kim_Jong-Il/JPG/Kim_Jong-il_on_24_August_2011.jpg](/Graphics/People/Politics/Supreme/Kim/Kim_Jong-Il/JPG/Kim_Jong-il_on_24_August_2011.jpg)
+
+</details>
+
+Kim Jong-Il ruled North Korea from 1993 April 9th to 2011 December 17th. As like Kim-Il-Sung, his titles include `Eternal leader` and `Grand Marshal` He was succeeded by Kim Jong Un
+
+###### Kim Jong Un
+
+<details open><summary><p lang="en">Click/tap here to expand/collapse this preview picture</p></summary>
+
+![/Graphics/People/Politics/Supreme/Kim/Kim_Jong_Un/JPG/Kim_Jong-un_April_2019_crop.jpg](/Graphics/People/Politics/Supreme/Kim/Kim_Jong_Un/JPG/Kim_Jong-un_April_2019_crop.jpg)
+
+</details>
+
+Kim Jong Un assumed office on 2012 April 11th, and is the current dictator of North Korea.
+
+###### Future leaders
+
+<details open><summary><p lang="en">Click/tap here to expand/collapse this preview picture</p></summary>
+
+![/Graphics/People/Politics/Supreme/Kim/Kim_Yo-Jong/JPG/Chung_Eui-yong_and_Kim_Jong-un.jpg](/Graphics/People/Politics/Supreme/Kim/Kim_Yo-Jong/JPG/Chung_Eui-yong_and_Kim_Jong-un.jpg)
+
+</details>
+
+It is currently unknown who will succeed Kim Jong Un, or if the country will last past him (there is always the chance of North Korea falling)
+
+##### Political parties of North Korea
+
+###### Workers Party of Korea (WPK)
+
+<details open><summary><p lang="en">Click/tap here to expand/collapse this preview picture</p></summary>
+
+![/Graphics/Politics/WPK/Emblem/SVG/WPK_symbol.svg](/Graphics/Politics/WPK/Emblem/SVG/WPK_symbol.svg)
+
+</details>
+
+<details open><summary><p lang="en">Click/tap here to expand/collapse this preview picture</p></summary>
+
+![/Graphics/Politics/WPK/Flag/SVG/Flag_of_the_Workers'_Party_of_Korea.svg](/Graphics/Politics/WPK/Flag/SVG/Flag_of_the_Workers'_Party_of_Korea.svg)
+
+</details>
+
+<details open><summary><p lang="en">Click/tap here to expand/collapse this preview picture</p></summary>
+
+![/Graphics/Politics/WPK/Text/SVG/Workers'_Party_of_Korea.svg](/Graphics/Politics/WPK/Text/SVG/Workers'_Party_of_Korea.svg)
+
+</details>
+
+The Workers Party of Korea (WPK) is the dominant political party of North Korea, and dominates daily life in the country. The party has an estimated 3 million members, including the current dictator, Kim Jong Un.
+
+##### Constitution of North Korea
+
+This section is currently empty.
+
+##### Relations with South Korea
+
+<details open><summary><p lang="en">Click/tap here to expand/collapse this preview picture</p></summary>
+
+![/Graphics/International_Relations/2018_Inter-Korean-Summit/JPG/2018_inter-Korean_summit_01.jpg](/Graphics/International_Relations/2018_Inter-Korean-Summit/JPG/2018_inter-Korean_summit_01.jpg)
+
+</details>
+
+<details open><summary><p lang="en">Click/tap here to expand/collapse this preview picture</p></summary>
+
+![/Graphics/DMZ/JPG/501_cows_sent_to_North_Korea.jpg](/Graphics/DMZ/JPG/501_cows_sent_to_North_Korea.jpg)
+
+</details>
+
+North Korea and South Korea both claim to be the real Korea. Reunification has been a struggle since the Korean War. South Korea sends aid through the Korean Demilitarized zone (DMZ) which was established at the end of the Korean War.
+
+##### Sham elections
+
+Elections are held in North Korea, but they are meaningless, as again, North Korea is a totalitarian dictatorship. They are considered sham elections, because no matter who you vote for, the Kim Dynasty will choose against it.
+
+##### Foreign relations
+
+North Korea is an isolated country, but tries to keep foreign relations. It hates America (despite liking American products like Windows, MacOS, and UNIX) and always wants to assert its dominance against America and threaten them with a nuclear war.
+
+North Korea has positive relations with China, the only country that tolerates them, although China has imposed sanctions on North Korea in recent years due to its nuclear program.
+
+#### Isolation
+
+North Korea is an isolated country, where no citizen is allowed to leave or enter. Additionally, they are completely cut off from the outside world, and are fed propaganda to keep them aligned with the North Korean state.
+
+#### Military
+
+North Korea has one of the largest militaries in the world, with 7.76 million North Koreans in the military (or 30.4% of the population of North Korea) North Korea also has nuclear weapons, and is an active threat to the world.
+
+##### Korean Peoples Army
+
+The Korean Peoples Army is the top military branch of North Korea. It houses 
+
+##### North Korea nuclear weapons supply
+
+North Korea has an unknown amount of Nuclear Weapons.
+
+#### Music of North Korea
+
+North Korean music is in praise of the dictators of North Korea. The most popular song in North Korea is `No motherland without you`
+
+##### No Motherland without you
+
+"No Motherland Without You" (or "Ode to Kim Jong Il"), is a North Korean song about the country's Eternal Leader, Kim Jong Il. Composed by Hwang Jin Yong and written by Ri Jong O, it extols the proclaimed talent and virtues of Kim, and the attachment of the North Korean people for him as he led them out of the turmoils of the 1990s famine (referred to as the Arduous March).
+
+The repeated phrase in the song is "We cannot live without you! Our country cannot exist without you!" It is also considered to be the anthem of the Songun ("military-first") policy that Kim implemented in coexistence with the Juche Idea in 1995. It is frequently broadcast on the radio and from loudspeakers on the streets of Pyongyang.
+
+###### No Motherland without you (Lyrics)
+
+| Korean (North) | English (US) |
+|-----|------|
+| 1.  사나운 폭풍도 쳐몰아 내고 신념을 안겨준 김정일동지 ( 후렴) 당신이 없으면 우리도 없고 당신이 없으면 조국도 없다 | 1. You pushed away the severe storm You made us believe, Comrade Kim Jong Il (Refrain) We cannot live without you Our country cannot exist without you! |
+| 2. 미래도 희망도 다 맡아주는 민족의 운명인 김정일동지 ( 후렴) | 2. Our future and hope depend on you People's fate depends on you, Comrade Kim Jong Il (Refrain) |
+| 3. 세상이 열백번 변한다 해도 인민은 믿는다 김정일동지 ( 후렴) | 3. Even if the world changes hundreds of times People believe in you, Comrade Kim Jong Il (Refrain) |
+
+##### Korea does what it is determined to do
+
+This song is not officially used by North Korea. No further information on this song is currently available.
+
+##### The Patriotic song
+
+`The Patriotic song` is the national anthem of North Korea. No further information on this song is currently available.
+
+#### Religion in North Korea
+
+![/Graphics/Religion/Chilhol_Church/JPG/Chilgol_Church_(15545529301).jpg](/Graphics/Religion/Chilhol_Church/JPG/Chilgol_Church_(15545529301).jpg)
+
+North Korea is officially an Atheist state, although Religion appears to be somewhat tolerated here.
+
+According to Religious Intelligence in 2007, 64% of the population are irreligious, 16% practice Korean shamanism, 14% practice Chondoism, 4% are Buddhist, and 2% are Christian. Freedom of religion and the right to religious ceremonies are constitutionally guaranteed, but religions are restricted by the
+government, according to Human Rights Watch.
+
+#### Geography of North Korea
+
+![(/Graphics/Korean_Peninsula_At_Night/JPG/Korean_Peninsula_at_night_from_space.jpg](/Graphics/Korean_Peninsula_At_Night/JPG/Korean_Peninsula_at_night_from_space.jpg)
+
+After the Korean War, North Korea was divided at the 38th parallel, and to this day, North Korea occupies the northern portion of Korea, lying between latitude 37 and 43N and longitude 124 and 131E. To the west of the country lies the Yellow Sea and the Korean Bay. To the east, lies the sea of Japan and the Japanese mainland.
+
+North Korea has many mountain ranges, and early tourists described it as "a sea in a heavy gale"
+
+#### Climate of North Korea
+
+No climate data for North Korea is currently available.
+
+#### Companies of North Korea
+
+Businesses in North Korea are operated by the government.
+
+##### Korea Computer Center
+
+The Korea Computer Center (KCC) is the main computer technology company of North Korea. It was founded on 1990 October 24th.
 
 ***
 
@@ -742,7 +1123,7 @@ Image credit: [defectivebydesign.org/drm-free/...](https://www.defectivebydesign
 
 Currently, I am the only contributer. Contributing is allowed, as long as you follow the rules of the [CONTRIBUTING.md](/CONTRIBUTING.md) file.
 
-> * 1. [seanpm2001](https://github.com/seanpm2001/) - 75 commits (As of 2022, Saturday, April 2nd at 7:!6 pm PST)
+> * 1. [seanpm2001](https://github.com/seanpm2001/) - 80 commits (As of 2022, Sunday, April 3rd at 5:18 pm PST)
 
 > * 2. No other contributers.
 
@@ -836,9 +1217,9 @@ Contributing is allowed for this project, as long as you follow the rules of the
 
 **File type:** `Markdown Document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `3 (2022, Saturday, April 2nd at 7:16 pm)`
+**File version:** `4 (2022, Sunday, April 3rd at 5:18 pm)`
 
-**Line count (including blank lines and compiler line):** `1,078`
+**Line count (including blank lines and compiler line):** `1,529`
 
 **All times are UTC-7 (PDT/Pacific Time)** `(Please also account for DST (Daylight Savings Time) until it is abolished/no longer followed)`
 
@@ -1042,11 +1423,65 @@ _This is a massive update. It took nearly 3 hours on and off to write._
 
 > * No other changes in version 3
 
-**Version 4 (Coming soon)**
+**Version 4 (2022, Sunday, April 3rd at 5:18 pm)**
+
+**This release was made by: [@seanpm2001](https://github.com/seanpm2001/)**
+
+_This is another massive update to the project. I am aiming to make a custom index of information about North Korea_
 
 > Changes:
 
-> * Coming soon
+> * Updated the index
+
+> * Added a section on the Samjiyon tablet computer
+
+> * Added a section on the North Korean flag emoji
+
+> * Added a section on the North Korean Internet
+
+> * Added a politics section
+
+> > * Added the supreme leader subsection
+
+> > * Added the Juche ideology subsection
+
+> > * Added the Mount Paektu bloodline subsection
+
+> > * Added the political parties subsection
+
+> > * Added the foreign relations subsection
+
+> * Fixed a typo regarding changing the language on Red Star OS 3. I consider it one of my best typos to date, but it is now fixed. Further commentary and the original typo is still there, just commented out
+
+> * Updated the file info section
+
+> * Updated the file history section
+
+> * Added the Pyongyang section
+
+> * Added the hardware section
+
+> * Added the Geography of North Korea section
+
+> * Added the climate of North Korea section
+
+> * Added the Music of North Korea section
+
+> * Added the Companies of North Korea section
+
+> * Added the isolation section
+
+> * Added the Military of North Korea section
+
+> * Added the Religion in North Korea sectionm
+
+> * Added the Chongjin section
+
+> * Added the Hamhung section
+
+> * Added the Nampocity section
+
+> * Referenced several new images (19 new images)
 
 > * No other changes in version 4
 
@@ -1065,6 +1500,22 @@ _This is a massive update. It took nearly 3 hours on and off to write._
 > * Coming soon
 
 > * No other changes in version 6
+
+**Version 7 (Coming soon)**
+
+> Changes:
+
+> * Coming soon
+
+> * No other changes in version 7
+
+**Version 8 (Coming soon)**
+
+> Changes:
+
+> * Coming soon
+
+> * No other changes in version 8
 
 ***
 
