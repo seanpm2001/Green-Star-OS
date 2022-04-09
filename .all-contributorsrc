@@ -115,6 +115,23 @@
         "maintenance",
         "ideas"
       ]
+    },
+    {
+      "login": "seanpm2001-politics",
+      "name": "Seanpm2001 Politics",
+      "avatar_url": "https://avatars.githubusercontent.com/u/83518946?v=4",
+      "profile": "https://github.com/Seanpm2001/Politics",
+      "contributions": [
+        "code",
+        "doc",
+        "projectManagement",
+        "security",
+        "data",
+        "content",
+        "design",
+        "maintenance",
+        "ideas"
+      ]
     }
   ],
   "contributorsPerLine": 7,
