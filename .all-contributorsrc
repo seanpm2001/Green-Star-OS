@@ -132,6 +132,23 @@
         "maintenance",
         "ideas"
       ]
+    },
+    {
+      "login": "seanpm2001-themes",
+      "name": "Seanpm2001 Themes",
+      "avatar_url": "https://avatars.githubusercontent.com/u/83788990?v=4",
+      "profile": "https://github.com/seanpm2001/BlueCalm_Theme",
+      "contributions": [
+        "code",
+        "doc",
+        "projectManagement",
+        "security",
+        "data",
+        "content",
+        "design",
+        "maintenance",
+        "ideas"
+      ]
     }
   ],
   "contributorsPerLine": 7,

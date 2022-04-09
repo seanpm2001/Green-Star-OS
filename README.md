@@ -1,6 +1,6 @@
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-8-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-9-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 ***
 
@@ -1549,6 +1549,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/Seanpm2001/Politics"><img src="https://avatars.githubusercontent.com/u/83518946?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Seanpm2001 Politics</b></sub></a><br /><a href="https://github.com/seanpm2001/Green-Star-OS/commits?author=seanpm2001-politics" title="Code">💻</a> <a href="https://github.com/seanpm2001/Green-Star-OS/commits?author=seanpm2001-politics" title="Documentation">📖</a> <a href="#projectManagement-seanpm2001-politics" title="Project Management">📆</a> <a href="#security-seanpm2001-politics" title="Security">🛡️</a> <a href="#data-seanpm2001-politics" title="Data">🔣</a> <a href="#content-seanpm2001-politics" title="Content">🖋</a> <a href="#design-seanpm2001-politics" title="Design">🎨</a> <a href="#maintenance-seanpm2001-politics" title="Maintenance">🚧</a> <a href="#ideas-seanpm2001-politics" title="Ideas, Planning, & Feedback">🤔</a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/BlueCalm_Theme"><img src="https://avatars.githubusercontent.com/u/83788990?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Seanpm2001 Themes</b></sub></a><br /><a href="https://github.com/seanpm2001/Green-Star-OS/commits?author=seanpm2001-themes" title="Code">💻</a> <a href="https://github.com/seanpm2001/Green-Star-OS/commits?author=seanpm2001-themes" title="Documentation">📖</a> <a href="#projectManagement-seanpm2001-themes" title="Project Management">📆</a> <a href="#security-seanpm2001-themes" title="Security">🛡️</a> <a href="#data-seanpm2001-themes" title="Data">🔣</a> <a href="#content-seanpm2001-themes" title="Content">🖋</a> <a href="#design-seanpm2001-themes" title="Design">🎨</a> <a href="#maintenance-seanpm2001-themes" title="Maintenance">🚧</a> <a href="#ideas-seanpm2001-themes" title="Ideas, Planning, & Feedback">🤔</a></td>
   </tr>
 </table>
 
