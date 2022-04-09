@@ -1,0 +1,160 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "seanpm2001",
+      "name": "Sean P. Myrick V19.1.7.2",
+      "avatar_url": "https://avatars.githubusercontent.com/u/65933340?v=4",
+      "profile": "https://gist.github.com/seanpm2001/7e40a0e13c066a57577d8200b1afc6a3",
+      "contributions": [
+        "code",
+        "doc",
+        "projectManagement",
+        "security",
+        "data",
+        "content",
+        "design",
+        "maintenance",
+        "ideas"
+      ]
+    },
+    {
+      "login": "all-contributors",
+      "name": "All Contributors",
+      "avatar_url": "https://avatars.githubusercontent.com/u/46410174?v=4",
+      "profile": "https://allcontributors.org",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "seanpm2001-lua-lang",
+      "name": "Seanpm2001 Lua projects",
+      "avatar_url": "https://avatars.githubusercontent.com/u/84098390?v=4",
+      "profile": "https://www.lua.org/",
+      "contributions": [
+        "code",
+        "doc",
+        "projectManagement",
+        "security",
+        "data",
+        "content",
+        "design",
+        "maintenance",
+        "ideas"
+      ]
+    },
+    {
+      "login": "seanpm2001-moonscript-lang",
+      "name": "Seanpm2001 MoonScript language",
+      "avatar_url": "https://avatars.githubusercontent.com/u/101436469?v=4",
+      "profile": "https://github.com/Seanpm2001-MoonScript-lang",
+      "contributions": [
+        "code",
+        "doc",
+        "projectManagement",
+        "security",
+        "data",
+        "content",
+        "design",
+        "maintenance",
+        "ideas"
+      ]
+    },
+    {
+      "login": "seanpm2001-html5-lang",
+      "name": "Seanpm2001 HTML5 projects",
+      "avatar_url": "https://avatars.githubusercontent.com/u/83990679?v=4",
+      "profile": "https://en.wikipedia.org/wiki/HTML5",
+      "contributions": [
+        "code",
+        "doc",
+        "projectManagement",
+        "security",
+        "data",
+        "content",
+        "design",
+        "maintenance",
+        "ideas"
+      ]
+    },
+    {
+      "login": "seanpm2001-shell-lang",
+      "name": "Seanpm2001 Shell projects",
+      "avatar_url": "https://avatars.githubusercontent.com/u/84037207?v=4",
+      "profile": "https://en.wikipedia.org/wiki/Bash_(Unix_shell)",
+      "contributions": [
+        "code",
+        "doc",
+        "projectManagement",
+        "security",
+        "data",
+        "content",
+        "design",
+        "maintenance",
+        "ideas"
+      ]
+    },
+    {
+      "login": "seanpm2001-research",
+      "name": "Seanpm2001 research facility",
+      "avatar_url": "https://avatars.githubusercontent.com/u/82013182?v=4",
+      "profile": "https://github.com/organizations/Seanpm2001-research/",
+      "contributions": [
+        "code",
+        "doc",
+        "projectManagement",
+        "security",
+        "data",
+        "content",
+        "design",
+        "maintenance",
+        "ideas"
+      ]
+    },
+    {
+      "login": "seanpm2001-politics",
+      "name": "Seanpm2001 Politics",
+      "avatar_url": "https://avatars.githubusercontent.com/u/83518946?v=4",
+      "profile": "https://github.com/Seanpm2001/Politics",
+      "contributions": [
+        "code",
+        "doc",
+        "projectManagement",
+        "security",
+        "data",
+        "content",
+        "design",
+        "maintenance",
+        "ideas"
+      ]
+    },
+    {
+      "login": "seanpm2001-themes",
+      "name": "Seanpm2001 Themes",
+      "avatar_url": "https://avatars.githubusercontent.com/u/83788990?v=4",
+      "profile": "https://github.com/seanpm2001/BlueCalm_Theme",
+      "contributions": [
+        "code",
+        "doc",
+        "projectManagement",
+        "security",
+        "data",
+        "content",
+        "design",
+        "maintenance",
+        "ideas"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "Green-Star-OS",
+  "projectOwner": "seanpm2001",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
