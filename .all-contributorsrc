@@ -234,6 +234,23 @@
         "maintenance",
         "ideas"
       ]
+    },
+    {
+      "login": "green-star-os",
+      "name": "Green Star OS (note: not an operating system)",
+      "avatar_url": "https://avatars.githubusercontent.com/u/103296554?v=4",
+      "profile": "https://github.com/Green-Star-OS",
+      "contributions": [
+        "code",
+        "doc",
+        "projectManagement",
+        "security",
+        "data",
+        "content",
+        "design",
+        "maintenance",
+        "ideas"
+      ]
     }
   ],
   "contributorsPerLine": 7,
