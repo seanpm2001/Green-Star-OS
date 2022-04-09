@@ -166,6 +166,23 @@
         "maintenance",
         "ideas"
       ]
+    },
+    {
+      "login": "seanwallawalla-software",
+      "name": "seanwallawalla",
+      "avatar_url": "https://avatars.githubusercontent.com/u/71748083?v=4",
+      "profile": "https://github.com/seanpm2001/",
+      "contributions": [
+        "code",
+        "doc",
+        "projectManagement",
+        "security",
+        "data",
+        "content",
+        "design",
+        "maintenance",
+        "ideas"
+      ]
     }
   ],
   "contributorsPerLine": 7,
